@@ -1,3 +1,3 @@
 # sub-project1
 サブプロジェクト
-ぎてゅb上で更新
+GitHub上で更新
